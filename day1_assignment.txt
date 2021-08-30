@@ -1,0 +1,19 @@
+      COMPILER										INTERPRETER
+1.  It scans the whole program in one go.                              Translates program one statement at a time
+
+2.  As it scans the code in one go,                                    Considering it scans code one line at a time,
+    the errors are shown at the end together.			        errors are shown line by line.
+
+3.  Main advantage of compilers is it's execution time.                Due to interpreters being slow in executing the object 
+									code,it is preferred less.
+
+4.  It converts the source code into object code.     		       It does not convert source code instead it scans it line by
+                                                                        line.
+
+5.  It does not require source code for later 			       It requires source code for later execution.
+    execution.
+
+6.  Error detection is difficult				       Error detection is easier comparatively.
+
+7.  Pertaining programming languages are C,C++,C#,                     Pertaining programming languages are Python,PHP,Perl
+    Java,Scala, etc.                                                     Ruby,etc.
